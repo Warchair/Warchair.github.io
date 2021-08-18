@@ -5,3 +5,7 @@
 .scroll {
     scroll-behavior: smooth;
 }
+
+.tap-hightlight {
+    -webkit-tap-highlight-color: transparent;
+}
